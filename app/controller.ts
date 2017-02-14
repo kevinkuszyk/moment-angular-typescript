@@ -1,4 +1,5 @@
 import * as moment from "moment";
+import * as angular from "angular";
 
 module Demo {
     class MomentController {

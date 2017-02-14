@@ -1,5 +1,6 @@
 "use strict";
 var moment = require("moment");
+var angular = require("angular");
 var Demo;
 (function (Demo) {
     var MomentController = (function () {
