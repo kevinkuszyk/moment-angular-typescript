@@ -1,4 +1,5 @@
-/// <reference path="../node_modules/moment/moment.d.ts" />
+"use strict";
+var moment = require("moment");
 var Demo;
 (function (Demo) {
     var MomentController = (function () {
