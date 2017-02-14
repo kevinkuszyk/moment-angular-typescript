@@ -1,6 +1,6 @@
 # Moment with Angular and TypeScript demo
 
-This repro contains the sample code for my Stack Overflow question at ...
+This repro contains the sample code for my Stack Overflow question at http://stackoverflow.com/q/42227596/1288481
 
 I'm using Angular 1.6.5, Moment 2.17.1 and TypeScript 2.17.1.  I have Angular typings installed from the npm `@types\angular` package.  Intellisense etc for Angular is working in VS Code.
 
