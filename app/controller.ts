@@ -1,3 +1,5 @@
+/// <reference path="../node_modules/moment/moment.d.ts" />
+
 module Demo {
     class MomentController {
         theMoment: moment.Moment;

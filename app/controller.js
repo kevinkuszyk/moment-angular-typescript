@@ -1,3 +1,4 @@
+/// <reference path="../node_modules/moment/moment.d.ts" />
 var Demo;
 (function (Demo) {
     var MomentController = (function () {
